@@ -1,4 +1,4 @@
-# InstaCV Filter
+# FilterCV
 
 A real-time, interactive Computer Vision application that overlays dynamic Augmented Reality (AR) filters onto human faces, mimicking core features found in modern social media applications.
 
